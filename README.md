@@ -1,4 +1,6 @@
 # ImageBox2Xml
+- 用于制作voc格式的数据集
+
 # 环境
 - 配置python 2.7、pip 及opencv3.0 环境
 
